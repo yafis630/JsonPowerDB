@@ -1,5 +1,4 @@
 # Student Database management system using JsonPowerDB
-   >>> Work by Mohd Yafis Khan © 
 
 ## A simple **HTML Web Application** made with **JavaScipt** and **JsonPowerDB** for **Students Database Management System**.
 
