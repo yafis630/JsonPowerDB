@@ -21,17 +21,17 @@ You can read the documentation by clicking [here.](http://login2explore.com/jpdb
 ---
 
 ### Release History
-#### v0.0.0 (27/02/2021)
+#### v0.0.0 (01/01/2023)
 ##### Initialization:
 - [#1] Added basic designs of all planned HTML pages
 ---
-#### v0.1.0 (28/02/2021)
+#### v0.1.0 (03/01/2023)
 ##### Enhancements:
 - [#2] Designed all HTML pages
 - [#3] Added JS and connected pages to JsonPowerDB
 - [#4] Tested all pages
 ---
-#### v0.1.1 (01/03/2021)
+#### v0.1.1 (04/01/2023)
 ##### Enhancements:
 - [#5] Added a README.md file
 - [#6] Few CSS changes
@@ -43,7 +43,6 @@ You can read the documentation by clicking [here.](http://login2explore.com/jpdb
 2. [Instructions](#instructions)
    i. [Requirements](#requirements)
    ii. [Execution](#execution)
-   iii. [Website](#website)
 
 
 ## Introduction
